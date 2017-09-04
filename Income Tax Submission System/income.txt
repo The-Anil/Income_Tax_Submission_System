@@ -1,0 +1,30 @@
+  
+
+
+
+
+
+
+
+ 				x--------------------------------------------------------------x
+ 				|     Information        About      Tax        Calculation     |
+				x--------------------------------------------------------------x
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+|         Income Tax Slab      |                 Tax Rate                   |              Actual Tax                  |
+|______________________________|____________________________________________|__________________________________________|
+|    Upto Rs. 2.5 Lakhs        |                    Nil                     |                    Nil                   |
+|   Rs. 2.5 Lakhs - 5 Lakhs    |                    10%                     |         Tax = (Salary)*0.1               |
+|  Rs. 5 Lakhs - 10 Lakhs      |                    20%                     |         Tax = (Salary)*0.2               |
+|        Above 10 Lakhs        |                    30%                     |          Tax = (Salary)*0.3              |
+|______________________________|____________________________________________|__________________________________________|
+                      
+                      
+$$    ---->     There are no separate slabs for men and women.                                 
+!!    ---->     All Salaries are Salary Per Annum.     
+^^    ---->    If Tax has not been paid for less than 2 years then same tax
+**    ---->   If Tax has not been paid for more than  2 years and less than 5 years then add a fine @ 25% of the tax calculated   
+##    ---->   If Tax has not been paid for more than  2 years and less than 5 years then add a fine @ 75% of the tax calculated                                                  
+                  
